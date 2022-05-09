@@ -18,3 +18,4 @@ if imgui.Button("Show Dialog") {
     imgui.OpenPopup(fileSelector.DialogLabel())
 }
 ```
+![alt text](screen.png)
